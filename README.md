@@ -1,2 +1,2 @@
-# nbd
+# nbd - non-relational databases
 tba..
